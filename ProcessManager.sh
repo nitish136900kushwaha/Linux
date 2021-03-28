@@ -1,3 +1,7 @@
+####################################################
+# this script require KillProcessTree.sh script.sh #
+####################################################
+
 #!/usr/bin/bash
 #
 # This is a process manager script, for managing the processes.
